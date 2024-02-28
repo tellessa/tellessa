@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an app for analyzing albums using the Spotify API.
+- 🔭 I’m currently working on an app for analyzing albums using the Spotify API. Technologies involved include Python, Django, a REST API, and JavaScript, CSS, & HTML.
 - 🌱 I’m currently learning C Programming for Everybody with Dr Chuck and Data Engineering Zoomcamp with Alexey Grigirev and DataTalksClub.
 - 👯 I’m looking to collaborate on open source projects involving python and data engineering.
 - ⚡ Fun fact: I love to play piano and guitar.
